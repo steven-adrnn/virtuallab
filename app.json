@@ -21,15 +21,15 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/icon-rill.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-screen.png",
-          "resizeMode": "contain",
+          "image": "./assets/images/icon-rill.png",
+          "resizeMode": "fullscreen",
           "backgroundColor": "#E8F3FF"
         }
       ]
