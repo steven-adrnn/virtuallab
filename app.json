@@ -29,7 +29,7 @@
         "expo-splash-screen",
         {
           "image": "./assets/images/icon-rill.png",
-          "resizeMode": "contain",
+          "resizeMode": "cover",
           "backgroundColor": "#257DDB"
         }
       ]
