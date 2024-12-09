@@ -14,7 +14,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon-rill.png",
-        "backgroundColor": "#E8F3FF"
+        "backgroundColor": "#257DDB"
       },
       "package": "com.stevenadrnn.virtuallab"
     },
@@ -30,7 +30,7 @@
         {
           "image": "./assets/images/icon-rill.png",
           "resizeMode": "contain",
-          "backgroundColor": "#E8F3FF"
+          "backgroundColor": "#257DDB"
         }
       ]
     ],
